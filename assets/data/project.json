@@ -1,0 +1,121 @@
+{
+  "project": [
+    {
+      "kategori": "self project",
+      "tittle": "React Portfolio",
+      "link": "https://dicoaji.github.io/personal-portfolio/",
+      "gambar": "react.portfolio.png"
+    },
+
+    {
+      "kategori": "client project",
+      "tittle": "Bandikmenti",
+      "link": "https://bandikmenti.batangkab.go.id/",
+      "gambar": "beasiswa_batang.jpg"
+    },
+    {
+      "kategori": "client project",
+      "tittle": "SIPPBCB",
+      "link": "https://github.com/DicoAji/sippbcb",
+      "gambar": "sippbcb.jpg"
+    },
+    {
+      "kategori": "self project",
+      "tittle": "Next Portfolio",
+      "link": "https://github.com/DicoAji/next.portfolio",
+      "gambar": "next.portfolio.png"
+    },
+
+    {
+      "kategori": "assignment",
+      "tittle": "To to list",
+      "link": "https://dicoaji.github.io/todolist.github.io/",
+      "gambar": "todo_javascript.jpg"
+    },
+
+    {
+      "kategori": "self project",
+      "tittle": "Portfolio 3",
+      "link": "https://dicoaji.github.io/portfolio3/",
+      "gambar": "portfolio-jiger.png"
+    },
+    {
+      "kategori": "self project",
+      "tittle": "Attain Interface",
+      "link": "https://dicoaji.github.io/attain-interface/",
+      "gambar": "attain.jpg"
+    },
+    {
+      "kategori": "self project",
+      "tittle": "Portfolio 1",
+      "link": "https://dicoaji.github.io/portfolio1.github.io/",
+      "gambar": "personal_portfolio_1.jpg"
+    },
+    {
+      "kategori": "self project",
+      "tittle": "Personal Portfolio",
+      "link": "https://dicoaji.github.io/dev-folio/",
+      "gambar": "DevFolio.jpg"
+    },
+    {
+      "kategori": "assignment",
+      "tittle": "Personal Notes",
+      "link": "https://github.com/DicoAji/aplikasi-pencatatan-React.github.io",
+      "gambar": "personal_notes.jpg"
+    },
+    {
+      "kategori": "self project",
+      "tittle": "Tutorify Interface",
+      "link": "https://dicoaji.github.io/tutorify-interface/",
+      "gambar": "tutorify.jpg"
+    },
+    {
+      "kategori": "self project",
+      "tittle": "Credia Interface",
+      "link": "https://dicoaji.github.io/credia-interface/",
+      "gambar": "credia.jpg"
+    },
+    {
+      "kategori": "assignment",
+      "tittle": "Dicoding Submission",
+      "link": "https://dicoaji.github.io/dicoding_pemrograman_dasar_web.github.io/",
+      "gambar": "belajar_pemrograman_dasar.jpg"
+    },
+    {
+      "kategori": "assignment",
+      "tittle": "Kita Sehat",
+      "link": "https://dicoaji.github.io/KitaSehat-interface/",
+      "gambar": "kitaSehat.jpg"
+    },
+    {
+      "kategori": "self project",
+      "tittle": "Personal Resume",
+      "link": "https://dicoaji.github.io/Dico-Aji-s/",
+      "gambar": "personal_resume.jpg"
+    },
+    {
+      "kategori": "assignment",
+      "tittle": "Orange Grapefruit Classification",
+      "link": "https://github.com/DicoAji/Orange-vs-Grapfruit-Klasifikasi",
+      "gambar": "orange-vs-grapefruit.png"
+    },
+    {
+      "kategori": "assignment",
+      "tittle": "Rock Paper Scissors Prediction",
+      "link": "https://drive.google.com/file/d/16qn6JsAIHpmF6wGLgo1KUCozNq5_iO1G/view?usp=sharing",
+      "gambar": "RPS.png"
+    },
+    {
+      "kategori": "assignment",
+      "tittle": "Anime Recomendation",
+      "link": "https://drive.google.com/file/d/1uWv8irCVvUyvURTLygoL9WkDgIHbjMgi/view?usp=sharing",
+      "gambar": "anime.png"
+    },
+    {
+      "kategori": "assignment",
+      "tittle": "Liver Classification",
+      "link": "https://drive.google.com/file/d/129AUC3VKA6B2DJvKEyq3oKIJs_hbppvA/view?usp=sharing",
+      "gambar": "liver-patient.png"
+    }
+  ]
+}

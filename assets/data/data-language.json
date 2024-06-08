@@ -1,0 +1,100 @@
+{
+  "data_language": [
+    {
+      "tittle": "HTML",
+      "gambar": "html.png"
+    },
+    {
+      "tittle": "CSS",
+      "gambar": "css.png"
+    },
+    {
+      "tittle": "Javascript",
+      "gambar": "js.png"
+    },
+    {
+      "tittle": "Bootstrap",
+      "gambar": "bootstrap.png"
+    },
+    {
+      "tittle": "SASS",
+      "gambar": "sass.png"
+    },
+    {
+      "tittle": "Tailwind",
+      "gambar": "tailwindcss.png"
+    },
+    {
+      "tittle": "PHP",
+      "gambar": "php.png"
+    },
+    {
+      "tittle": "Python",
+      "gambar": "python.png"
+    },
+    {
+      "tittle": "Codeigniter",
+      "gambar": "codeigniter-icon.png"
+    },
+    {
+      "tittle": "Laravel",
+      "gambar": "laravel.png"
+    },
+    {
+      "tittle": "MySQL",
+      "gambar": "mysql-wordmark.png"
+    },
+    {
+      "tittle": "Node JS",
+      "gambar": "Nodejs.png"
+    },
+    {
+      "tittle": "JQuery",
+      "gambar": "jquery.png"
+    },
+    {
+      "tittle": "React JS",
+      "gambar": "react.png"
+    },
+    {
+      "tittle": "Postman",
+      "gambar": "postman.png"
+    },
+    {
+      "tittle": "Adobe Photoshop",
+      "gambar": "photoshop.png"
+    },
+    {
+      "tittle": "Adobe XD",
+      "gambar": "adobe-xd.png"
+    },
+    {
+      "tittle": "Adobe Premiere",
+      "gambar": "adobe-premiere.png"
+    },
+    {
+      "tittle": "Figma",
+      "gambar": "figma.png"
+    },
+    {
+      "tittle": "Canva",
+      "gambar": "canva.png"
+    },
+    {
+      "tittle": "Git",
+      "gambar": "git.png"
+    },
+    {
+      "tittle": "Arduino",
+      "gambar": "arduino.png"
+    },
+    {
+      "tittle": "Notion",
+      "gambar": "notion.png"
+    },
+    {
+      "tittle": "Microsoft Office",
+      "gambar": "office.png"
+    }
+  ]
+}
